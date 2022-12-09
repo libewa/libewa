@@ -1,6 +1,6 @@
 # libewa
 
-Hello, I am libewa, aka minutix. My projects sometimes don't work because I am bad, so don't rely on me.
+Hello, I am libewa, aka minutix. My projects sometimes don't work because I am bad at coding, so don't rely on me.
 
 My current projects are:
 
@@ -8,6 +8,16 @@ My current projects are:
 - my GitHub Pages site (https://libewa.github.io)
 
 I am learning Swift, HTML, Swift and C++.
+
+## Follow these
+- @Nils-nonline
+- @miwarn
+- @bimi124
+
+## Things I hate
+- Nestlé
+- Christian Lindner (german politician)
+- Java
 
 Did DIY do RV DJ TV DJ Faultier Radio tank.
 
