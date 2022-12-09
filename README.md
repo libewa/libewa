@@ -18,6 +18,8 @@ I am learning Swift, HTML, Swift and C++.
 - Nestlé
 - Christian Lindner (german politician)
 - Java
+- Latin grammar
+- a specific teacher of mine. nils knows.
 
 Did DIY do RV DJ TV DJ Faultier Radio tank.
 
