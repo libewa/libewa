@@ -6,7 +6,7 @@ My current projects are:
 
 - [libewa/hausaufgaben](https://github.com/libewa/hausaufgaben)
 - my GitHub Pages site (https://libewa.github.io)
-- a fischertechnik robot (collab with @Bimi124) (https://www.github.com/Bimi124/ft-rescure-robot)
+- a fischertechnik robot (collab with @Bimi124)
 
 I am learning Swift, HTML, Swift and C++.
 
