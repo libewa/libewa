@@ -2,13 +2,9 @@
 
 Hello, I am libewa, aka minutix. My projects sometimes don't work because I am bad at coding, so don't rely on me.
 
-My current projects are:
+I am currently working on [my iPhone app](https://github.com/libewa/hausaufgaben) and a [Discord bot](https://github.com/libewa/fiesenheld)
 
-- [libewa/hausaufgaben](https://github.com/libewa/hausaufgaben)
-- my GitHub Pages site (https://libewa.github.io)
-- a fischertechnik robot (collab with @Bimi124)
-
-I am learning Swift, HTML, Swift and C++.
+I am learning Swift, HTML, JavaScript and Swift.
 
 ## Follow these
 - @Nils-nonline
@@ -19,9 +15,7 @@ I am learning Swift, HTML, Swift and C++.
 - Nestlé
 - Christian Lindner (german politician)
 - Java
-- Latin grammar
-- a specific teacher of mine. nils knows.
-
-Did DIY do RV DJ TV DJ Faultier Radio tank.
+- C#
+- grammar
 
 I use a Surface Pro X, a self-built gaming PC and a MacBook Pro.
