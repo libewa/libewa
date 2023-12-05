@@ -13,7 +13,6 @@ I am learning Swift, HTML, JavaScript and Swift.
 
 ## Things I hate
 - Nestlé
-- Christian Lindner (german politician)
 - Java
 - C#
 - grammar
